@@ -3,3 +3,8 @@ E:\vs\test\test\bin\Debug\test.exe
 E:\vs\test\test\bin\Debug\test.pdb
 E:\vs\test\test\obj\Debug\test.exe
 E:\vs\test\test\obj\Debug\test.pdb
+D:\gitfile\test\test\bin\Debug\test.exe.config
+D:\gitfile\test\test\obj\Debug\test.exe
+D:\gitfile\test\test\obj\Debug\test.pdb
+D:\gitfile\test\test\bin\Debug\test.exe
+D:\gitfile\test\test\bin\Debug\test.pdb
