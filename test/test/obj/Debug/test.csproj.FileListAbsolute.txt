@@ -8,3 +8,4 @@ D:\gitfile\test\test\obj\Debug\test.exe
 D:\gitfile\test\test\obj\Debug\test.pdb
 D:\gitfile\test\test\bin\Debug\test.exe
 D:\gitfile\test\test\bin\Debug\test.pdb
+D:\gitfile\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache

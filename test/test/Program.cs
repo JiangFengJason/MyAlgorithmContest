@@ -17,9 +17,13 @@ namespace test
             //}
 
             //打印出数组中唯一的一个数字
-            int[] number = { 2,1,1 };
-            int m = new Solution_2().SingleNumber(number);
-            Console.WriteLine(m);
+            //int[] number = { 2,1,1 };
+            //int m = new Solution_2().SingleNumber(number);
+            //Console.WriteLine(m);
+
+            //实现加法器
+            int n = new Solution_3().GetSum(1, 2);
+            Console.WriteLine(n);
         }
         
         
