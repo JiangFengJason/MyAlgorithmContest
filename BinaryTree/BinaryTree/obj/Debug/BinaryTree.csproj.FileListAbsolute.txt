@@ -1,0 +1,6 @@
+c:\users\jf\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\gitfile\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\gitfile\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\gitfile\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\gitfile\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\gitfile\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
