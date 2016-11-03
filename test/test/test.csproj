@@ -46,6 +46,7 @@
     <Compile Include="Solution_1.cs" />
     <Compile Include="Solution_2.cs" />
     <Compile Include="Solution_3.cs" />
+    <Compile Include="Solution_4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

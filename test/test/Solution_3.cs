@@ -15,7 +15,6 @@ namespace test
                 int temp = a;
                 a = a ^ b;
                 b = (temp & b) << 1;
-
             }
             return a ^ b;
         }

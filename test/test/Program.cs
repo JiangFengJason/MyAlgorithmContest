@@ -21,9 +21,14 @@ namespace test
             //int m = new Solution_2().SingleNumber(number);
             //Console.WriteLine(m);
 
-            //实现加法器
-            int n = new Solution_3().GetSum(1, 2);
-            Console.WriteLine(n);
+            //无加号，实现加法器
+            //int n = new Solution_3().GetSum(1, 2);
+            //Console.WriteLine(n);
+
+            //把所有的0移动到数组的最后，并且不改变原来元素的相对位置
+            //int [] num={0,1,0,3,12};
+            //new Solution_4().MoveZeroes(num);
+
         }
         
         
