@@ -10,8 +10,13 @@ namespace Difference
     {
         static void Main(string[] args)
         {
-            char a = new Solution().FindTheDifference("abcd", "abcde");
-            Console.WriteLine(a);
+            //找出两个字符串中的不同的一个字母
+            //char a = new Solution().FindTheDifference("abcd", "abcde");
+            //Console.WriteLine(a);
+
+            bool is_can = new Solution_1().CanConstruct("fffbfg",
+"effjfggbffjdgbjjhhdegh");
+            Console.WriteLine(is_can);
         }
     }
 }
