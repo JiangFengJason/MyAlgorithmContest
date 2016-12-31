@@ -29,6 +29,12 @@ namespace test
             //int [] num={0,1,0,3,12};
             //new Solution_4().MoveZeroes(num);
 
+            int[] num = { 4, 3, 2, 7, 8, 2, 3, 1 };
+            IList<int> b= new Solution_5().FindDisappearedNumbers(num);
+            foreach (int c in b)
+            {
+                Console.WriteLine(c);
+            }
         }
         
         
