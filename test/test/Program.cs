@@ -29,12 +29,17 @@ namespace test
             //int [] num={0,1,0,3,12};
             //new Solution_4().MoveZeroes(num);
 
-            int[] num = { 4, 3, 2, 7, 8, 2, 3, 1 };
-            IList<int> b= new Solution_5().FindDisappearedNumbers(num);
-            foreach (int c in b)
-            {
-                Console.WriteLine(c);
-            }
+            //找出数组中的缺失元素
+            //int[] num = { 4, 3, 2, 7, 8, 2, 3, 1 };
+            //IList<int> b= new Solution_5().FindDisappearedNumbers(num);
+            //foreach (int c in b)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+            int[,] grid = { { 0, 1, 0, 0 }, { 1, 1, 1, 0 }, { 0, 1, 0, 0 }, { 1, 1, 0, 0 } };
+            int result = new Solution_6().IslandPerimeter(grid);
+            Console.WriteLine(result);
         }
         
         
